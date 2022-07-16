@@ -1,1 +1,3 @@
 # JavaScript
+
+## Beginner JavaScript Code
